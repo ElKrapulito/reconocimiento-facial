@@ -1,6 +1,6 @@
 # Reconocimiento facial
 
-Primero instalar requierments, luego se tiene que descargar le csv y ponerlo dentro de una carpeta llamada **csv**, 
+Primero instalar requierments, luego se tiene que descargar le csv y ponerlo dentro de una carpeta llamada [**csv**](https://drive.google.com/file/d/156FQlEyBkAQ58FvU5C2jCZ824oBwq1z-/view?usp=sharing), 
 despues una ves tenemos el csv con los datos de las imagenes se tiene que crear la carpeta **img** para guardar las imagenes
 de entrenamiento en las cuales tienen que ir las siguientes carpetas de sentimientos:
 - Asco
